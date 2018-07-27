@@ -1,4 +1,4 @@
-package com.ym.springbootdemo.dao;
+package com.ym.springbootdemo.domain;
 
 public class User {
 
